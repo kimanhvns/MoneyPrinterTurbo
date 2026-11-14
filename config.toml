@@ -108,7 +108,7 @@ video_source = "pexels"
 # Key 必须使用英文半角双引号，多个 Key 使用英文逗号分隔。
 
 # Register at https://www.pexels.com/api/
-pexels_api_keys = []
+pexels_api_keys = [3125872-c1871db3fdd45c0929c7c9e7e]
 
 # Register at https://pixabay.com/api/docs/
 pixabay_api_keys = []
